@@ -12,3 +12,11 @@ For this lab, your goals are the following:
   - Understand the high level structure of a YAML document
   - Understand what data types and data structures are available
   - Be able to read/write some basic YAML
+
+## Exercise summary:
+  - Exercise-1: Make scalars or different data types
+  - Exercise-2: Make your first mapping
+  - Exercise-3: Make two different sequences
+  - Exercise-4: Break a long, single, line of text across multiple lines
+  - Exercise-5: Make a multi-line string and preserve line-breaks
+  - Exercise-6: Referencing other data within a YAML document
