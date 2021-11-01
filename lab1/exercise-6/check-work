@@ -1,6 +1,6 @@
 #!/bin/bash
 
-assignment=l1_e2
+assignment=l1_e6
 
 lib=../../.tools/labCheckers/
 DIR="$(dirname "$(realpath "$0")")"

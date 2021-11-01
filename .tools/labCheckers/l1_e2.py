@@ -3,35 +3,6 @@ schema = {
     'string_with_quotes': {
         'required': True,
         'type': 'string'
-    },
-    'string_with_without_quotes': {
-        'required': True,
-        'type': 'string'
-    },
-    'integer_number': {
-        'required': True,
-        'type': 'number',
-        'min': 11,
-        'max': 20
-    },
-    'floating_point_number': {
-        'required': True,
-        'type': 'float',
-        'min': 0.1,
-        'max': 0.99
-    },
-    'date': {
-        'required': True,
-        'type': 'date'
-    },
-    'boolean': {
-        'required': True,
-        'type': 'boolean'
-    },
-    'null_value': {
-        'required': False,
-        'nullable':  True,
-        'type': 'boolean'
     }
     # 'metrics': {
     #     'required': True,
