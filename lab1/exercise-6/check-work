@@ -1,7 +1,0 @@
-#!/bin/bash
-
-assignment=l1_e6
-
-lib=../../.tools/labCheckers/
-DIR="$(dirname "$(realpath "$0")")"
-python3 $lib/$assignment.py $DIR/$assignment.yaml

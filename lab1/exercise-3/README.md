@@ -1,18 +1,45 @@
-<!-- MarkdownTOC -->
+- [Exercise Description (Make two different sequences):](#exercise-description-make-two-different-sequences)
+  - [Example 1 (using the "-" character):](#example-1-using-the---character)
+  - [Example 2 (using square brackets):](#example-2-using-square-brackets)
+  - [Example 3 (sequences of mappings):](#example-3-sequences-of-mappings)
+- [Exercise Instructions:](#exercise-instructions)
 
-  - [Exercise Description](#exercise-description)
-    - [Example 1: ](#example-1-)
-  - [Exercise Instructions](#exercise-instructions)
+# Exercise Description (Make two different sequences):
+The next primitave YAML data structure that we'll talk about is a **sequence**. One way of explaining what a sequence is, is that a sequence is YAML's way of organizing data in an **array** (or **list** depending on what your preferred programming language is).
 
-<!-- /MarkdownTOC -->
-# Exercise Description:
-TBD
+Below are a few different way's that you can create a sequence:
 
-For example, TBD:
-
-## Example 1 ():
+## Example 1 (using the "-" character):
 ```
 ---
+MyHobbies: 
+  - hiking
+  - fishing
+  - swimming
+
+```
+
+## Example 2 (using square brackets):
+```
+---
+MyHobbies: ["hiking", "fishing", "swimming"]
+
+```
+
+## Example 3 (sequences of mappings):
+```
+---
+AboutMe:
+  - InfoType: FirstName
+    Value: Mike
+  - InfoType: Age
+    Value: 30
+  - InfoType: Hobby
+    Value: Hiking
+  - InfoType: Hobby
+    Value: Fishing
+  - InfoType: Hobby
+    Value: Swimming
 
 ```
 

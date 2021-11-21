@@ -1,6 +1,6 @@
-name: 'my_name'
-date: 2017-10-01
-metrics:
-    percentage:
-      value: 87
-      trend: downn
+---
+# With the mapping below, break apart the following sentence into multiple lines, but ensure that the new-lines are preserved for the output: The quick brown fox jumped over the lazy dog. 
+PreserveNewLines: 
+
+# With the mapping below, break apart the following sentence into multiple lines, but ensure that the new-lines are NOT preserved for the output: The quick brown fox jumped over the lazy dog.
+DoNotPreserveNewLines:

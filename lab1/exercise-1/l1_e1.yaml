@@ -1,7 +1,7 @@
-string_with_quotes:   "test"# you can use either single or double quote characters
-string_with_without_quotes: test
-integer_number: 21 # give a number between 11 - 20
-floating_point_number:  0 # give a value between 0.1 - 0.99
-date: 2021-10-24 # You can supply a date in the following format: yyyy-mm-dd
-boolean:  True
-null_value: # This one is a bit different, you can type "null" or leave it blank
+string_with_quotes: ChangeMe # you can use either single or double quote characters
+string_with_without_quotes: ChangeMe
+integer_number: ChangeMe # give a number between 11 - 20
+floating_point_number: ChangeMe # give a value between 0.1 - 0.99
+date: ChangeMe # You can supply a date in the following format: yyyy-mm-dd
+boolean:  ChangeMe 
+null_value: ChangeMe # This one is a bit different, you can type "null" or leave it blank

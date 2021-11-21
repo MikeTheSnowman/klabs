@@ -7,11 +7,11 @@
   - [Exercise Instructions](#exercise-instructions)
 
 <!-- /MarkdownTOC -->
-# Exercise Description:
+# Exercise Description (Make scalars or different data types):
 For this exercise, you will learn about the different data types that you can supply as a value to a key. 
-In the world of YAML, they have this thing called a "scalar". A scalar is simply either a string of **characters** or **numbers** that are supplied as a value to a key, or as an element of a list.
+In the world of YAML, they have this thing called a "**scalar**". A **scalar** is simply either a string of **characters** or **numbers** that are supplied as a value to a key, or as an element of a list.
 
-For example, consider the two YAML examples below. Both of them are showing scalars in actions:
+For example, consider the three YAML examples below. All of them are showing **scalars** in slightly different ways:
 
 ## Example 1 (scalar as value to a key):
 ```

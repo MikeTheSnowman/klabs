@@ -1,3 +1,8 @@
+- [# Lab 1: YAML Tutorial](#-lab-1-yaml-tutorial)
+- [Lab Objective](#lab-objective)
+- [Learning outcomes:](#learning-outcomes)
+- [Exercise summary:](#exercise-summary)
+
 # Lab 1: YAML Tutorial
 ---
 ## Lab Objective
@@ -17,6 +22,5 @@ For this lab, your goals are the following:
   - Exercise-1: Make scalars or different data types
   - Exercise-2: Make your first mapping
   - Exercise-3: Make two different sequences
-  - Exercise-4: Break a long, single, line of text across multiple lines
-  - Exercise-5: Make a multi-line string and preserve line-breaks
-  - Exercise-6: Referencing other data within a YAML document
+  - Exercise-4: Working with long lines of text
+  - Exercise-5: Referencing other data within a YAML document
