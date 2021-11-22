@@ -38,6 +38,7 @@ Each lab module has been designed to provide you with exercises on a general top
   - Lab 4: Managing K8s resources using YAML
 
 If you want to go through the labs in order, click on the button below.
+<br>
 <a href="./lab1/README.md">
   <img src="resources/btn_StartLab1.svg" width="150" height="100" alt="Start Lab 1">
 </a>
