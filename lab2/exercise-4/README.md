@@ -39,4 +39,8 @@ In this exercise, we will add, then remove a worker node from our K8s cluster.
     k3d-my-cluster1-agent-1    Ready      <none>                 99m     v1.21.5+k3s2
     k3d-my-cluster1-server-0   Ready      control-plane,master   99m     v1.21.5+k3s2
     ```
-    If you see the entry for `k3d-extra-agent-0` then awesome! You've successfully added an additional node to your kubernetes cluster and you can now **continue to the next exercise**.
+    If you see the entry for `k3d-extra-agent-0` then awesome! You've successfully added an additional node to your kubernetes cluster!
+
+---
+After completing the this exercise, please click on the button below to go to the next exercise where you'll learn about **how to use K3D to delete your cluster**.
+<br><a href="../exercise-5/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_Exercise5.svg" width="150" height="100" alt="Next Exercise"></a>

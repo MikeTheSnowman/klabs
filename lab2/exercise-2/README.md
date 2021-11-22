@@ -161,4 +161,6 @@ For the  beginning part of the exercise, I'm not going to give you the answer im
    To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
    ```
 
-You can now proceed to the next exercise.
+---
+After completing the this exercise, please click on the button below to go to the next exercise where you'll learn about **using K3D to switch between managing multiple clusters**.
+<br><a href="../exercise-3/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_Exercise3.svg" width="150" height="100" alt="Next Exercise"></a>

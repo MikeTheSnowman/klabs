@@ -1,3 +1,5 @@
+# Exercise 1 - Make scalars or different data types
+
 <!-- MarkdownTOC -->
 
   - [Exercise Description](#exercise-description)
@@ -7,7 +9,7 @@
   - [Exercise Instructions](#exercise-instructions)
 
 <!-- /MarkdownTOC -->
-# Exercise Description (Make scalars or different data types):
+# Exercise Description
 For this exercise, you will learn about the different data types that you can supply as a value to a key. 
 In the world of YAML, they have this thing called a "**scalar**". A **scalar** is simply either a string of **characters** or **numbers** that are supplied as a value to a key, or as an element of a list.
 
@@ -39,7 +41,7 @@ employee_ages:
   - 28.9
 ```
 
-# Exercise Instructions:
+# Exercise Instructions
 
   - Open the file `l1_e1.yaml` and supply the appripiate scalar (values) to all the keys.
 
@@ -50,3 +52,7 @@ employee_ages:
   - You can run the above command from within Visual Studio Code using the built in terminal. To open the terminal within VS Code, press the following keys together:
   
 ``ctrl + shift + ` ``
+
+---
+After completing the this exercise, please click on the button below to go to the next exercise where you'll learn about **mappings**.
+<br><a href="../exercise-2/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_Exercise2.svg" width="150" height="100" alt="Next Exercise"></a>

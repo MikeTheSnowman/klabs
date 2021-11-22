@@ -4,6 +4,7 @@
   - [Example 1 (Anchor and Alias):](#example-1-anchor-and-alias)
   - [Important Caveat:](#important-caveat)
 - [Exercise Instructions:](#exercise-instructions)
+    - [Congradulations!](#congradulations)
 
 <!-- /MarkdownTOC -->
 # Exercise Description (Referencing other data within a YAML document):
@@ -38,3 +39,9 @@ Please note that there is a very important caveat you need to remember when usin
   3. Change directory to this exercise folder with the following command: `cd ~/Kubernetes_Labs/lab1/exercise-5`
 
   4. After supplying all the values, run the following command to check your work: `./check-work`
+
+---
+### Congradulations! 
+After completing this exercise, you've officially completed **Lab-1**! 
+Click on the button below to navigate over to **Lab-2** where you'll learn how to use K3D.
+<br><a href="../../lab2/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_StartLab2.svg" width="150" height="100" alt="Next Lab"></a>

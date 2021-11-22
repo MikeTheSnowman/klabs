@@ -26,3 +26,7 @@ With the example below, you can see that we use the "|" character to tell YAML t
   3. Change directory to this exercise folder with the following command: `cd ~/Kubernetes_Labs/lab1/exercise-4`
 
   4. After supplying all the values, run the following command to check your work: `./check-work`
+
+---
+After completing the this exercise, please click on the button below to go to the next exercise where you'll learn about **sequences**.
+<br><a href="../exercise-5/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_Exercise5.svg" width="150" height="100" alt="Next Exercise"></a>

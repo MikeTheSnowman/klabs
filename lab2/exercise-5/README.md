@@ -26,4 +26,9 @@ The exercise's name is self explanatory. Let's go and delete a cluster or two.
    ```
    And that's it! 
 
-**Please proceed to Lab-3**.
+---
+### Congradulations! 
+You've sucessfully completed **Lab-2**!
+Next, in **Lab-3** things will start to pick up as you learn how to interact and how to manage kubernetes using a command line tool called `kubectl`.
+Click on the button below to navigate to **Lab-3**.
+<br><a href="../../lab3/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_StartLab3.svg" width="150" height="100" alt="Next Exercise"></a>

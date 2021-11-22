@@ -1,10 +1,12 @@
+# Exercise 2 - Make your first mapping
+
 <!-- MarkdownTOC -->
 
   - [Exercise Description](#exercise-description)
   - [Exercise Instructions](#exercise-instructions)
 
 <!-- /MarkdownTOC -->
-# Exercise Description (Make your first mapping):
+# Exercise Description
 YAML documents, at a high level, have three basic primatives (structures) that make up the structure of a YAML document:
   - Scalars (strings, numbers, dates, etc...)
   - Mappings (key/value pairs, hash maps, dictionaries)
@@ -17,7 +19,7 @@ In this exercise, we will practice creating some **mappings**. Below is a graphi
 As you can see in the picture above, a mapping is essentially a **key/value** pair.
 The "value" can be either a sequence (this is something we talk about in the next exercise), a scalar, or another mapping.
 
-# Exercise Instructions:
+# Exercise Instructions
 
   1. Open the file `l1_e2.yaml` and supply the create three mappings that have the following requirements. (**NOTE**: Please make the mappings in the order as they are listed):
      1. Mapping with a key called **MyName** with an assigned scalar of type **string**.
@@ -29,3 +31,7 @@ The "value" can be either a sequence (this is something we talk about in the nex
   3. Change directory to this exercise folder with the following command: `cd ~/Kubernetes_Labs/lab1/exercise-2`
 
   4. After supplying all the values, run the following command to check your work: `./check-work`
+
+---
+After completing the this exercise, please click on the button below to go to the next exercise where you'll learn about **sequences**.
+<br><a href="../exercise-3/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_Exercise3.svg" width="150" height="100" alt="Next Exercise"></a>

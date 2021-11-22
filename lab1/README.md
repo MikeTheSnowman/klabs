@@ -19,8 +19,13 @@ For this lab, your goals are the following:
   - Be able to read/write some basic YAML
 
 ## Exercise summary:
-  - Exercise-1: Make scalars or different data types
-  - Exercise-2: Make your first mapping
-  - Exercise-3: Make two different sequences
-  - Exercise-4: Working with long lines of text
-  - Exercise-5: Referencing other data within a YAML document
+  - <a href="./exercise-1/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../assets/btn_Exercise1.svg" width="150" height="100" alt="Start Exercise 1"></a> - Make scalars or different data types
+
+  - <a href="./exercise-2/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../assets/btn_Exercise2.svg" width="150" height="100" alt="Start Exercise 2"></a> - Make your first mapping
+
+  - <a href="./exercise-3/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../assets/btn_Exercise3.svg" width="150" height="100" alt="Start Exercise 3"></a> - Make two different sequences
+
+  - <a href="./exercise-4/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../assets/btn_Exercise4.svg" width="150" height="100" alt="Start Exercise 4"></a> - Working with long lines of text
+
+  - <a href="./exercise-5/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../assets/btn_Exercise5.svg" width="150" height="100" alt="Start Exercise 5"></a> - Referencing other data within a YAML document
+

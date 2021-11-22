@@ -17,3 +17,6 @@ The purpose of this lab is to show you how to install K3D... You'll soon find ou
   ```
   curl -s https://raw.githubusercontent.com/rancher/k3d/main/install.sh | bash
   ```
+---
+After completing the this exercise, please click on the button below to go to the next exercise where you'll learn about **-**.
+<br><a href="../exercise-2/README.md"><img style="margin-bottom:-50px; padding-bottom:3px" src="../../assets/btn_Exercise2.svg" width="150" height="100" alt="Next Exercise"></a>
