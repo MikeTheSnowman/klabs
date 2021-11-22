@@ -1,3 +1,32 @@
+<style>
+a.button {
+  /* use inline-block because it respects padding */
+  display: inline-block;
+  /* padding creates clickable area around text (top/bottom, left/right) */
+  padding: 1em 3em;
+  /* round corners */
+  border-radius: 5px;
+  /* remove underline */
+  text-decoration: none;
+  /* set colors */
+  color: white;
+  background-color: #4E9CAF;
+}
+mdButton {
+  /* use inline-block because it respects padding */
+  display: inline-block;
+  /* padding creates clickable area around text (top/bottom, left/right) */
+  padding: 1em 3em;
+  /* round corners */
+  border-radius: 5px;
+  /* remove underline */
+  text-decoration: none;
+  /* set colors */
+  color: white;
+  background-color: #4E9CAF;
+}
+</style>
+
 <details>
 <summary><b>Table of Contents</b> (click to open)</summary>
 <!-- MarkdownTOC -->
@@ -34,6 +63,11 @@ Each lab module has been designed to provide you with exercises on a general top
   - Lab 2: Working with K3d
   - Lab 3: Getting started with kubectl
   - Lab 4: Managing K8s resources using YAML
+
+If you want to go through the labs in order, click on the button below.
+[Start Learning](./lab1/README.md)
+<br/><a href="./lab1/README.md" class="button">Start Lab-1</a>
+
 
 # About this VM:
 In order to help you along your K8s learning path, this VM has been designed to be as lightweight aspossible and with collection of software pre-installed to make your learning experience much easier so you can focus on just using kubernetes.

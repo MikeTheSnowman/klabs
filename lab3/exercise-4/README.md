@@ -1,9 +1,10 @@
 
 
-# Exercise Description:
+# Exercise 4: Modifying a resources that are already deployed
 
 
-## Example 1 ():
+# Exercise Objectives
 
+# Exercise Description
 
-# Exercise Instructions:
+# Exercise Instructions

@@ -1,9 +1,9 @@
 
 
-# Exercise Description:
+# Exercise 5: Deleting resources
 
+# Exercise Objectives
 
-## Example 1 ():
+# Exercise Description
 
-
-# Exercise Instructions:
+# Exercise Instructions

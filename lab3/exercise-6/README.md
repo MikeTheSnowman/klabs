@@ -1,9 +1,9 @@
 
 
-# Exercise Description:
+# Exercise 6: Creating deployments
 
+# Exercise Objectives
 
-## Example 1 ():
+# Exercise Description
 
-
-# Exercise Instructions:
+# Exercise Instructions
